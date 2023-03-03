@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Sirnyght
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Js, Java, C++, etc.
-- 💞️ I’m looking to collaborate on .
-- 📫 How to reach me : DM here
+- 👋 Hi, I’m @Sirnyght!
+- 👀 I’m interested in cybersecurity and application development.
+- 🌱 I’m currently learning Js and Java.
+- 📫 How to reach me : DM here.
 
 <!---
 Sirnyght/Sirnyght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
